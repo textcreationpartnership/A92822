@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Second part of the prisoners remonstrance shewing their sad and heavy pressures with a speedy remedy, and a way for the inlargement of all prisoners for debt, and civil causes. Also many choice points of law worthy every mans knowledge touching the illegallity of the former Act, and some seasonable proposals for the new; for for all mens view, but more especially for prisoners and creditors, and such as are upon their intrest concerned. Together with a tast of the salt sold at salters-hal, and in too many places of this Common-wealth, or certain cases instanced by which their justice may appear; published least men should be deceived or poisoned therewith.</title>
+         </titleStmt>
+         <extent>Approx. 74KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92822</idno><idno type="EEBO-CITATION">99866079</idno>
+  <idno type="VID">118339</idno>
+  <idno type="EEBO-PROQUEST">2240935442</idno>
+  
+            <idno type="STC">Wing S2313</idno>
+            <idno type="STC">Thomason E738_11</idno>
+            <idno type="STC">ESTC R207002</idno>
+            <idno type="PROQUEST">99866079</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866079e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118339)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E738[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Second part of the prisoners remonstrance shewing their sad and heavy pressures with a speedy remedy, and a way for the inlargement of all prisoners for debt, and civil causes. Also many choice points of law worthy every mans knowledge touching the illegallity of the former Act, and some seasonable proposals for the new; for for all mens view, but more especially for prisoners and creditors, and such as are upon their intrest concerned. Together with a tast of the salt sold at salters-hal, and in too many places of this Common-wealth, or certain cases instanced by which their justice may appear; published least men should be deceived or poisoned therewith.</title>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May [ye] 30th:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prisoners --  Early works to 1800.</term>
+               <term type="topical_term">Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118339:1"/>
+            <p>A second part of the Prisoners Remonstrance Shewing their sad and heavy PRESSURES With a speedy Remedy, and a way for the Inlargement of all Prisoners for debt, and Ci<g ref="char:EOLhyphen"/>vil Causes.</p>
+            <p>ALSO Many choice points of Law worthy eve<g ref="char:EOLhyphen"/>ry mans knowledge touching the illegallity of the form<g ref="char:EOLhyphen"/>er Act, and some seasonable Proposals for the New; fit for all mens view, but more especially for Prisoners and Cre<g ref="char:EOLhyphen"/>ditors, and such as are upon their intrest concerned.</p>
+            <p>TOGETHER With a tast of the Salt sold at Salters-Hal, and in too many places of this Common-wealth, or cer<g ref="char:EOLhyphen"/>tain Cases instanced by which their Justice may appear; publi<g ref="char:EOLhyphen"/>shed least men should be deceived or poisoned therewith.</p>
+            <q xml:lang="lat">
+               <l>Dat veniam Cornis vexat censura Columbas▪</l>
+               <l>Non Radendum usque at Cutem.</l>
+            </q>
+            <q>These things hast thou done, and I held my tongue, and thou thoughtest wic<g ref="char:EOLhyphen"/>kedly that I am such a one as thy self, but I will reprove thee, and set be<g ref="char:EOLhyphen"/>fore thee the things that thou hast done. <bibl>
+                  <hi>Ps. 50.21.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London</hi> Printed 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118339:2"/>
+            <pb n="3" facs="tcp:118339:2"/>
+            <head>A second Part of the Prison<g ref="char:EOLhyphen"/>ers Remonstrance, shewing their sad and heavy Pressures, with a speedy remedy for the inlargement of all Prisoners for Debt, and Civil Cau<g ref="char:EOLhyphen"/>ses.</head>
+            <p>HAving in our last promised the world a taste of the Salt sold at Salters-Hall, and having thereby touched upon certain general heads which might seem too much to re<g ref="char:EOLhyphen"/>flect upon the late Juges there, by way of scandal a thing too much practised in these days; we therefore being desirous to avoid any suspicion of that kind, thought our selves obliged to make good the same more particularly here, not onely by giving you a true account of the particular cases, and the names of the per<g ref="char:EOLhyphen"/>sons whom the same concerned, who made triall thereof, but we have also laid open the manifold inconveniences and mischiefs of the Act it self, and how destructive to the law the same was, and have proposed certain remedies, and first to make good that it was a general rule practised amongst the Judges there, to remand all pri<g ref="char:EOLhyphen"/>soners of fortune who came before them, to the several prisons from whence they came, without any relief til <hi>April,</hi> be their cau<g ref="char:EOLhyphen"/>ses never so just nor honest, their constant practise to all or most that ever came before them will declare, but more especially their carriage to Sir <hi>William Smith,</hi> Sir <hi>Henry Anderson</hi> Knights, Mr. <hi>Henry Deerham,</hi> Mr. <hi>Francis Ewr,</hi> Mr. <hi>Plucknet,</hi> Mr. <hi>Owen,</hi> Mr. <hi>Carew,</hi> Mr. <hi>Musgrave,</hi> Mr. <hi>Rumsey,</hi> Captain <hi>Roberts,</hi> Mr. <hi>Colevile,</hi> and many others, some whereof were 9 or 10, yea 12 or 14 times
+<pb n="4" facs="tcp:118339:3"/> before them to their honour be it spoken But it may be some will object that their several cases were not relievable before <hi>April,</hi> and that in the mean time they were so charitably disposed as to relieve the poor prisoners, conceiving the richer sort had wherewith to maintain themselves in prison which they had not, and therefore might have perished had they stayed while the richer sort had been discharged, to which may be soon answered that if the same were true, it were somewhat, yet no warrant to cause Gentlemen with their Councel and witnesses to attend so often, and at last to put them off, unlesse they were minded instead of relieving them to make them poorer, also who had any thing left. But we shall make it appear that their charity to the poor was little lesse then what it was to the rich, especially if they found they had any e<g ref="char:EOLhyphen"/>state, though it were in others hands, and they were wholly depri<g ref="char:EOLhyphen"/>ved of it, or kept from it, witnesse poor widow <hi>March</hi> a prisoner in the Fleet, who hath of a long time been unjustly kept in prison, and with much difficulty being an aged woman, got her living by keep<g ref="char:EOLhyphen"/>ing of Gentlemens chambers, and by washing their linnen, who af<g ref="char:EOLhyphen"/>ter she had attended them seven days, with her Councel and wit<g ref="char:EOLhyphen"/>nesse, was remanded back to prison, though her Adversary owed her more money then she owed him, and all the cause they had to remand her, was, that her adversary did keep her estate from her, and her self in prison, and this she said her self by way of Complaint against him; upon which they took an occasion to send her back to prison till <hi>April,</hi> where she is put to very hard streights, and would have gone near to perish for want, were it not for some good people, we wish this charity may not rise in judgement a<g ref="char:EOLhyphen"/>gainst them.</p>
+            <p>The like mercy they shewed one <hi>Anne Tailor</hi> that lay in the Hole in the Poultry Compter for a long time, which very thing besides other things was a sure argument of poverty, else the Jaylor with<g ref="char:EOLhyphen"/>out doubt would have afforded her better accommodation, yet this poor creature was remanded back to prison again.</p>
+            <p>Again in the case of <hi>Francis Ewre</hi> Esq prisoner in the Fleet, who had divers great Actions, and pre-satisfied Executions, amounting to 16 or 17 thousand pounds, charged upon him, at the suit of one Sir <hi>Henry Standard,</hi> Sir <hi>Francis Williamson,</hi> Mr. <hi>Lenthrop,</hi> Sir <hi>Rob. Cook,</hi> Mr. <hi>Shears</hi> and others, who had by a strong and powerfull combination kept the Gentleman many years in prison upon the
+<pb n="5" facs="tcp:118339:3"/> same Actions, of purpose to destroy him, and to share his estate; as he saieth, else it is not like they would have left so many Actions, to continue without any Declaration some 4 and some 5 years, and yet notwithstanding all this, and that the Gentleman did present his Petition to the said Judges, against all the persons therein no<g ref="char:EOLhyphen"/>minated, yet could have no relief for all his injuries and oppressi<g ref="char:EOLhyphen"/>ons, but to be remanded back to prison, a Copy of whose Petiti<g ref="char:EOLhyphen"/>on followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Honourable Judges appointed by Act of Parliament for the relief of Creditors and poor Prisoners. The humble Petition of <hi>Francis Ewr,</hi> Esq Prisoner in the <hi>Fleet.</hi>
+                        </head>
+                        <opener>Sheweth,</opener>
+                        <p>
+                           <hi>THat Henry Standard,</hi> and <hi>Elizabeth</hi> his wife, in the year 1648. charged the Petitioner in the Upper Bench in a Plea of debt upon demand of 4000 <hi>l.</hi> and never declared upon the same:</p>
+                        <p>That the said Standard and his wife charged the Petitioner in the upper Bench with an AAion of Trespass upon the Case 2000 <hi>l.</hi> and never declared upon the same.</p>
+                        <p>That <hi>Francis Williamson</hi> Knight, charged the Petitioner in a Plea of debt upon demand 1000 <hi>l.</hi> and never declared upon the same.</p>
+                        <p>That the said <hi>Francis Williamson</hi> charged the Petitioner with 200 <hi>l.</hi> and never declared.</p>
+                        <p>That <hi>Thomas Salmond</hi> Gent. charged the Petitioner in a Plea of Trespasse upon the Case, 2000 <hi>l.</hi> and never declared.</p>
+                        <p>That <hi>William Leech</hi> an Attorney, charged the Petitioner in an action 16 <hi>l.</hi> and never declared.</p>
+                        <p>That on <hi>Maurice Gegfith,</hi> charged the Petitioner in action 600 <hi>l.</hi> and never declared.</p>
+                        <p>That <hi>John Hill, Susan</hi> his wife, charged the Petitioner in action 200 <hi>l.</hi> and never declared.</p>
+                        <pb n="6" facs="tcp:118339:4"/>
+                        <p>That <hi>John Curtis</hi> an Attorney charged the Petitioner in an action of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>0 <hi>l.</hi> and never declared.</p>
+                        <p>That <hi>Margaret Major</hi> widow, charged the Petitioner in a plea of debt upon demand, 100 <hi>l.</hi> and never declared.</p>
+                        <p>That <hi>Giles Danal</hi> charged the Petitioner in a plea of debt 50 <hi>l.</hi> and never declared.</p>
+                        <p>That <hi>Richard R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ach</hi> charged the Petitioner in an action of debt, 500 <hi>l.</hi> and never declared.</p>
+                        <p>
+                           <hi>The Petitioner humbly beseecheth your Honour to summon all the afore-mentioned parties to shew cause why they have so cause<g ref="char:EOLhyphen"/>lesly vexed the Petitioner with their several feigned actions, and that your Honour will take your Petitioners long imprisonment into your prudent consideration, and give such several damages against the said parties to the Petitioner, as the merits of his cause and fuffering shall deserve, and also humbly prayeth your Honours Order to the Warden of the Fleet, to permit him to at<g ref="char:EOLhyphen"/>tend your Honour in the prosecution of this Complaint, and that he may sollicit his businesse with a Keeper, he being not able to be at the charge of a Sollicitor himself to summon the parties complained of, and to attend your Honour, untill the same shall be determined of before your Honour: the Warden of the</hi> Fleet, <hi>having already good security for the Petitioners faithfull and true imprisonment.</hi>
+                        </p>
+                        <closer>
+                           <signed>And he shall dayly pray, <hi>Francis Ewre,</hi>
+                           </signed>
+                           <signed>
+                              <hi>Exe.</hi> Tho. Forster.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Gentleman to prove that he was charged with all those actions in his Petiton mentioned, produced a Copy of his causes, un<g ref="char:EOLhyphen"/>der the hand of the Warden of the Fleet or his Deputy and Wit<g ref="char:EOLhyphen"/>nesses to prove the same, which in all other causes was held for, and taken to be sufficient evidence, but in this case nothing would serve turn but witnesses <hi>viva voce,</hi> must be produced to prove that every one of those actions, was entred by the special direction privity and procurement of the several parties complained against, else nothing must be done, which is more then we prisoners can ordinarily do, we being in prison not knowing what Agents our Adversaries do imploy, moderate men would have conceived this was sufficient
+<pb n="7" facs="tcp:118339:4"/> proof; that a Gentleman had lain in prison charged with so many actions, so many years, (for men seldome charge themselves) and so did they in the cases before mentioned, and in all others, but in this, the case was altred, but how it came to be altred, whether it was because one nimble Gentleman of the Judges, altered and changed his place, and went to all or most of the Judges and whis<g ref="char:EOLhyphen"/>pered them in the ears, or by his own or some others of his nearest relations greedy desires to purchase a fair Lordship, of the said prisoners called <hi>Bucknell</hi> in the County of <hi>Oxford,</hi> is not yet cer<g ref="char:EOLhyphen"/>tainly known, but time wil manifest, but is already more then proba<g ref="char:EOLhyphen"/>ble in regard a brother law of one of the said Judges, namely one M. <hi>Fretman,</hi> did long since out of his confidence in the said Judge, pro<g ref="char:EOLhyphen"/>claim the Gentleman to be a Banckrupt, and that his estate would be sold at Salters-Hall the first of <hi>April,</hi> by which means he hin<g ref="char:EOLhyphen"/>dred his Tenants to pay him any rents, or to supply his necessities, upon any terms, insomuch that the prisoner being a Gentleman of a fair and considerable fortune, <hi>viz.</hi> of 1000 <hi>l. per annum</hi> at least, could he have his due is put to great streights in prison to releeve himself, and hath a wife and many children in the same condition, though not in prison.</p>
+            <p>The said Judges did the like by one Mr. <hi>Carew</hi> another Gentle<g ref="char:EOLhyphen"/>man who had of a long time lain in prison in the Fleet charged with 2 or 3 vexations and feined actions amounting to five or six thou<g ref="char:EOLhyphen"/>sand pounds, in which were no Declarations yet had no damages given him, and so they did by Sir <hi>William Smith,</hi> Mr. <hi>Rumsey,</hi> and many others, <hi>Eisdem de causes alij plectuntur al j ne appelantur quidem,</hi> so that the world may see how partially and arbitrarily they dealt with prisoners, and may see the old saying verified, as the man is befriended so the matter is surely ended, <hi>gratia fit pluris, quam tota scientia juris.</hi> Now if they did thus in such clear cases as these so directly contrary to the very Letter and expresse words of the Act, by which they were impowered and made Judges, (and their own practice in some cases) what liberty they would have taken when they came upon any difficult obscure or doubtfull pla<g ref="char:EOLhyphen"/>ces of the same, the world may guesse. And now having made good that their own wills was the law they walked by, and that they did quite contrary in some cases to what they did in others, and that if they did good to some poor prisoners, it was but to some whom
+<pb n="8" facs="tcp:118339:5"/> they pleased, or who made good friends to them, it being no gene<g ref="char:EOLhyphen"/>ral practice of theirs, as by those poor prisoners formerly named to be still in prison, and many others, who we now passe over for bre<g ref="char:EOLhyphen"/>vity sake may appear, it seems they had not learnt that old <hi>distic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> una pena implicat quos unus amor in crimine ligat.</hi> Besides it will ap<g ref="char:EOLhyphen"/>pear that very few or none of those who they did discharge were discharged out of charity, but were bound to pay so much week<g ref="char:EOLhyphen"/>ly or quarterly out of their labours to their Creditors, which was a work of superarogation, and in no wise comanded or injoined them by the said Act, and contrary to the course and practice of all or most of the Iudges of the several Counties of <hi>England</hi> and <hi>Wales,</hi> besides themselves, who discharged the poor, because poor, and the riche because they had estates, which they were sure to meet with, in case they should not pay their debts by the first of <hi>April,</hi> so that we who have fallen into the hands of these <hi>London</hi> Iudges, are of all or most prisoners most miserable; witnesse the Petition of the Prisoners of the Fleet, presented to the Iudges in <hi>November</hi> last, which was subscribed by near 40 Lords, Knights, Esquires, and Gentlemen of fortune and quality, in the behalf of themselves, and all their fellow prisoners in these words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Honourable Judges Authorized by Act of Parliament for relief of Credi<g ref="char:EOLhyphen"/>tors and poor Prisoners. The Humble Petition of the Prisoners of the Fleet.</head>
+                        <opener>Sheweth,</opener>
+                        <p>THat the Petitioners by the said Act are in<g ref="char:EOLhyphen"/>joined to pay their debts before the first day of <hi>April</hi> next, under pain of being proceeded against as Bankrupts after that day, from the time of their first Commitments.</p>
+                        <p>Now for that many of your Petitioners have sufficient estates for payment of their just debts, with an overplus, remaining in other mens hands, and now in suit for, and
+<pb n="9" facs="tcp:118339:5"/> other some of your Petitioners lie charged with greater Actions and Executions then their just debts amounts to, whereby their credits are so much impaired, that their friends forsake them. And for that also it is impossible for your Petitioners in the time aforesaid (much thereof being spent without fruit for want of liberty) to treat with their Creditors, and raise monies to pay their just debts, by sale of lands, prosecuting suits, getting in, and re<g ref="char:EOLhyphen"/>covering their just debts and estates, (unjustly kept from them) ascertaining their just debts, making defence, and relieving themselves, against unjust and unreasonable de<g ref="char:EOLhyphen"/>mands of obdurate Creditors (your Petitioners Debt<g ref="char:EOLhyphen"/>tors and Tennants, taking advantage of the last provisi<g ref="char:EOLhyphen"/>on in the said Act, refuse payment of their debts and rents; And their Creditors demanding forfeitures, and refusing to accept just and reasonable sati<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>faction) un<g ref="char:EOLhyphen"/>lesse your Petitioners may in the mean time, have liberty by such means in your Honours power, (as of your selves or by mediation to the Parliament) as to you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> wisdomes shall be thought meet; to go abroad where their severa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l estates lie, and their Debtors and Creditors live, and may have their just debts ascertained (and for prevent<g ref="char:EOLhyphen"/>ing many destructive mischiefs, that lie on your Petitio<g ref="char:EOLhyphen"/>ners by their shortnesse of time for payment of their debts) have a speedy receipt of your Petitioners Petiti<g ref="char:EOLhyphen"/>ons and Examinations and Determinations of their se<g ref="char:EOLhyphen"/>veral Causes. And that the Petitioners may have the same priviledge of speedy proceedings against their Debtors and Tennants, as their Creditors are to have a<g ref="char:EOLhyphen"/>gainst them.</p>
+                        <p>
+                           <hi>The Petitioners therefore most humbly beseech your Ho<g ref="char:EOLhyphen"/>nours, to take into consideration their sad and dep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>o<g ref="char:EOLhyphen"/>rable conditions (they desiring a preservation of them<g ref="char:EOLhyphen"/>selves,
+<pb n="10" facs="tcp:118339:6"/> children, and families, and a speedy payment of their just debts) to be pleased to order them their pre<g ref="char:EOLhyphen"/>sent Liberties, and such further speedy relief in the rest of the Premises aforesaid, as doth and shall lie in your Honours wisdomes, and powers, by such ways and means, as by your Honours shall be thought just and meet. And for the other part of your Petitioners de<g ref="char:EOLhyphen"/>sires, or what is fit to be granted to them, and not in your Honours powers to grant, that your Honors will be pleased to be intercessant to the Parliament for your Pe<g ref="char:EOLhyphen"/>titioner for the same. And your Petitioners and their disconsolate wives, children and families will daily pray for your long lives and prosperous estates.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Thomas Dacre, Kt.</item>
+                                 <item>Hen. Anderson, Kt.</item>
+                                 <item>Tho. As<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>field, Kt.</item>
+                                 <item>James Davy.</item>
+                                 <item>Edw. Rumsey.</item>
+                                 <item>Tho. Stevenson.</item>
+                                 <item>Lyster Blunt.</item>
+                                 <item>Edm. Hasings.</item>
+                                 <item>Edw. Ma. Wingfield.</item>
+                                 <item>Tho. King.</item>
+                                 <item>Edm. Winstauley.</item>
+                                 <item>Will. Lacy.</item>
+                                 <item>Samuel Norris.</item>
+                                 <item>Cuthbert Foywoth.</item>
+                                 <item>Ric. Parme.</item>
+                                 <item>Robert Ford.</item>
+                                 <item>Robert Perrie.</item>
+                                 <item>Bernard Bormer.</item>
+                                 <item>Tho. Burton.</item>
+                                 <item>Samuel Mott.</item>
+                                 <item>Henry Fleetwood.</item>
+                                 <item>Fr. Ewre.</item>
+                                 <item>Hen. Derham.</item>
+                                 <item>Dorothy Arundel.</item>
+                                 <item>Law. Wynington.</item>
+                                 <item>Robert Jason.</item>
+                                 <item>William Owen.</item>
+                                 <item>Tho. VValton.</item>
+                                 <item>Robert Becket.</item>
+                                 <item>Tho. Capon.</item>
+                                 <item>Will. Roberts.</item>
+                                 <item>Roger Halford.</item>
+                                 <item>Will. Gregory.</item>
+                                 <item>Will. Bletsoe.</item>
+                                 <item>George Smythson.</item>
+                                 <item>Abiezer Hay.</item>
+                                 <item>Christo. Musgrave.</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="11" facs="tcp:118339:6"/>
+            <p>Now had these worthy Iudges but hearkened to the aforesaid Petition, we that were prisoners, in case we should not before the first of <hi>April</hi> have done just and righteous things, and given sa<g ref="char:EOLhyphen"/>tisfaction to our Creditors, then we had been without excuse, and it had been but just for them, or at least they might have had some colour to hold us to these extremities: but without granting thereof, or stating our just debts, that we might know what and how much we must pay, or granting us any relief or assistance out of the estates of those for whom many of us lay in prison, they being able, seemed strange justice from such Judges who were ap<g ref="char:EOLhyphen"/>pointed to relieve Creditors and poor prisoners, of which number we accounted our selves, or might very well have done with a witness before this day, had they been but permitted to proceed according to their intentions at <hi>April,</hi> then we are sure they would have made us poor enough, for by all their actions they have so declared it, <hi>ex ungue leon</hi>— Now let all men judge, whether this was not the height of Tyranny and Cruelty, for they never heed<g ref="char:EOLhyphen"/>ed our Petition, nor would vouchsafe us any answer nor Reliefe, but kept us still in Prison as before; yea, and that though divers of us were kept in for other mens debts which were formerly sa<g ref="char:EOLhyphen"/>tisfied, witnese Mr. <hi>Peacock</hi> and Mr. <hi>Rumsey</hi> and others, by that means disabling us to pay those just debts we did owe of our own to other persons, which could be to no other end but to make us bancrupts at <hi>April,</hi> thar so we and all our fortunes might be at their mercy, who upon the sale of our estates were to have two pence a pound themselves, besides the large Sallaries they intended for their Sons and Agents, if they had not further ayms to purchase our whole estates betwixt them and theit Confederates: some of them having openly and ingeniously confest to some that spoke to them in their behalf, that though men were kept never so unjust<g ref="char:EOLhyphen"/>ly in prison, yet if they had estates, though they owed no debts, they must keep them in prison till <hi>April.</hi> So you see it was their estates that osfended, and for their estates sake they must continue in prison; this was spoke it seems by such who better knew how to sell a Suit and Cloak then to do justice, by which you may see that the best of them were but a tearing Brier, instead of Iustice, beh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld a cry.</p>
+            <p>And whereas by their act they were required, in case any man had layn three moneths in Prison, and no Declaration filed against
+<pb n="12" facs="tcp:118339:7"/> him, they were not only enabled to discharge him, but also to give the prisoner damages according to his quality and suffering: Now how the said Judges behaved themselves herein, may appear how transcendently they gave damage<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to some, especially if they were Citizens, or had good friends in the City, as namely one Master <hi>Benjamin Busfield,</hi> who being but a Merchants servant, having been only arrested upon an Action, upon which he lay but two or three nights, at the most, before he was Bailed out; yet he had no less then one hundred Marks damages given him by the said Judges: Also Captain <hi>Flord</hi> being charged with an action of four pound, had ten pound damages given him by his Adversary for not Declaring; and Mr. <hi>Deeram</hi> in the like Case had 100. l. ordered him: but on the contrary when Captain <hi>Christopher Musgraves</hi> Case came before them, which was an hundred times worse, as by that relation will appear, they gave him but 15. pounds da<g ref="char:EOLhyphen"/>mages for 15. moneths imprisonment. Now to make good what we say, we shall here relate the Gentlemans Case, which was briefly thus, he being somewhat indebted, and being desirous to pay the same, and to provide for his Wife and Children, having certain Lands past unto him in the County of <hi>York</hi> from Sir <hi>Lion Pilkinton,</hi> by way of Morgage did sell his right, title, and interest thereto, to one Mr. <hi>Nathaniel Therold,</hi> Marshall of the E che<g ref="char:EOLhyphen"/>quer, at and for the rate of 960. l. whereof the said <hi>Thorold</hi> paid him about 250. l. and promised to pay the rest of the purchase money in <hi>London,</hi> and appointed the time and place where Captain <hi>Musgrave</hi> should receive the same, who accordingly made a jor<g ref="char:EOLhyphen"/>ney from <hi>Cumberland</hi> to <hi>London,</hi> being 240. miles, intending to receive the said money, but when he came to the place appointed, instead of receiving money he was Arrested by <hi>Thorold</hi> upon a Bill of <hi>Middlesex,</hi> upon a pretence that <hi>Musgrave</hi> owed him moneys, whereupon the Gentleman being a Stranger, and so remote from his Friends, Countrey and Habitation was carried to the <hi>Gate<g ref="char:EOLhyphen"/>house</hi> prison, where he was charged by the means of <hi>Thorold</hi> with an Execution that the said <hi>Thorold</hi> had ingaged to satisfie, by which means he was continued a close prisoner three moneths, and when Mr. <hi>Musgrave</hi> had provided money to pay the said Execution, and was ready to bee discharged out of prison; <hi>Thorold</hi> cau<g ref="char:EOLhyphen"/>sed a new Action to bee charged upon him by another Bill of
+<pb n="13" facs="tcp:118339:7"/>
+               <hi>Middlesex,</hi> to which he would take no Bail; whereupon the Gentleman turned himself over to the Fleet, where he hath layn above thirteen moneths, but all this while <hi>Thorold</hi> never declared against him, insomuch that he petitioned the Judges at Salters-Hall for relief, who granted Summons to call in <hi>Thorold,</hi> as also se<g ref="char:EOLhyphen"/>veral witnesses on both sides; whereupon the said Cause came to hearing before them, and though the Cause was proved clearly, as before is related, both before them and master <hi>Fountain,</hi> who said he deserved to be set on the Pillory for it, the said Judges gave the said Gentleman, though he was thus wrongfully kept in Pre<g ref="char:EOLunhyphen"/>son, by one to whom he owed nothing, yea more by one, who as he made to appear did owe him above five hundred pounds, yea, though the Gentleman had a wife and six children who were ruin<g ref="char:EOLhyphen"/>ed by this means, being put out of her house, and her very bed seized on by the Landlord for Rent, which the poor Gentlewoman was by this cruel oppression disabled to pay, while her husband was here in <hi>London</hi> in prison, and the greatest part, if not her whole Estate kept in the said <hi>Thorolds</hi> hands, yet these worthy Iudges would give this Gentleman but r5. pounds damages for fifteen moneths imprisonment, while they gave this Merchants servant an hundred Merks; and whereas there was some other small and inconsiderable Actions and Executions against him, all not exceeding 40. l. and though it did appear by <hi>Thorolds</hi> own Councels Confession, there was 550. l. of <hi>Musgraves</hi> money in the said <hi>Thorolds</hi> hands, yet would not the said Iudges discharge him of the said Action, nor order him to pay so much as would discharge the Gentleman out of prison, but remanded him back to the Fleet there to continue without relief till <hi>April,</hi> neither could he have so much money from the said <hi>Thorold,</hi> as would dis<g ref="char:EOLhyphen"/>charge his Chamber Rent in the <hi>Fleet,</hi> by reason whereof a small occasion was taken to turn the Gentleman into the Wards a<g ref="char:EOLhyphen"/>mongst the common sort of prisoners, where he hath now conti<g ref="char:EOLhyphen"/>nued above four moneths in a sad condition, his wife being great with childe and ready to lie in, having sca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce money to pay for her lodging, and to relieve her self, and to preprre necessaries for her self in her condition, or to maintain her husband in prison, or her children which are in a most sad condition in the Countrey, where they are forced to live upon the charity of their friends; yet these Iudges turns a deaf ear to all these complaints, though the Gentle<g ref="char:EOLhyphen"/>man
+<pb n="14" facs="tcp:118339:8"/> hath been ten or twelve times before them: <hi>God</hi> grant that these things provoke not the Lord to turn a deaf ear to them, and to this sinful Nation, and grant that by his judgements the inhabi<g ref="char:EOLhyphen"/>tants of these lands may learn righteousness, for ought appears to us by their fruits, these have learnt little yet.</p>
+            <div type="part">
+               <head>Now to prove their further delays, and put offs, if not gross partiality, we shall desire the Reader to observe this ensuing Case, betwixt Edw. Rums<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, Esq and Io. Ieffreys of London, Grocer: As also how highly they fa<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ured the Grocer against the Gentleman, who was of a long time, and still is a prisoner for another mans debt.</head>
+               <p>
+                  <hi>EDward Rumsey</hi> Esq being now a prisoner in the Fleet, upon an Execution of 400. l. at the Suit of master <hi>James Wiche</hi> of <hi>London,</hi> Merchant, who hath another Iudgement of 800. l. against him, and another Band of 200 l. all being for the debt of one <hi>Pedwardine Rumsey</hi> of <hi>London,</hi> Grocer; being desirous to be re<g ref="char:EOLhyphen"/>lieved herein, according to the late Act of Parliament, which pro<g ref="char:EOLhyphen"/>vides that in case any lies in prison for the debt of another, the estate of that person for whom he lies, in case he have any shall be first disposed of towards payment of his own debts. Now the said prisoner being informed that the said <hi>Pedwardine</hi> hath a sufficient estate to pay his own debts in the hands of one master <hi>John Jeffreys</hi> of <hi>London,</hi> Grocer, and others; he petitioned the Judges at Sal<g ref="char:EOLhyphen"/>ters Hall for relief herein, who granted their order of Summons to bring in the said <hi>Jeffrey's,</hi> and all such who he complained a<g ref="char:EOLhyphen"/>gainst before them upon the 24. day of <hi>February</hi> last, at which time all parties appeared, and were put off till <hi>Saturday</hi> the 4th. of <hi>March,</hi> because the prisoner did not bring a copy of his Causes with him, which was then denied him for some reasons then made known to the Court, though they needed not had they so pleased in regard they had the same formerly returned by the Warden.</p>
+               <p>However, upon <hi>Saturday</hi> the fourth of <hi>March</hi> all parties ap<g ref="char:EOLhyphen"/>peared, and a copy of the Causes was then produced, which was du<g ref="char:EOLhyphen"/>ly proved, and then it wat fully proved by the testimony.</p>
+               <p n="1">1. Of master <hi>John Musgrave,</hi> who was master <hi>Wiche</hi> his own Agent and Solicitor, who recovered the said Judgements against
+<pb n="15" facs="tcp:118339:8"/> the said <hi>Rumsey</hi> the prisoner, and charged him in Execution in the Fleet thereupon, that the said Execution and Judgement were the proper debt of the said <hi>Rumsey</hi> the Grocer, and not the debt of the prisoner, and that the same was contracted for Currance sold by Mr. <hi>Wiche</hi> being a Merchant to the said <hi>Ped. Rumsey</hi> being a Grocer, and that <hi>Rumsey</hi> the prisoner, and master <hi>Lionel Gilson</hi> were but Sureties for the same, so that divers of the Iudges were satisfied, and began to proceed to the merit of the cause, and na<g ref="char:EOLhyphen"/>med two Citizens, <hi>viz</hi> one <hi>Adams</hi> and <hi>Jones</hi> to exam ne the ac<g ref="char:EOLhyphen"/>count betwixt <hi>Rum ey</hi> the Grocer, and the said <hi>Jeffreys</hi> to which the prisoner no sooner contented, but the Court by M <hi>Worcups</hi> lear<g ref="char:EOLunhyphen"/>ed Oratory, did recede from their first Order and Proposal, saying the prisoner must make other proof, that it was the Grocers debt.</p>
+               <p n="2">2. Whereupon the s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was made good, and proffered to be sworn to by M s. <hi>Anne Gelsoa</hi> then in Court, whose testimony the Court refused, because she was sister to the prisoner, and wife to <hi>Gelson.</hi>
+               </p>
+               <p n="3">3. The prisoner likewise proffered to prove the same by the oath of <hi>Rumsey</hi> the Grocer, whose debt it was, and who had the said Currants, but the Court refused to examine him, because he was brother to the prisoner.</p>
+               <p n="4">4. The prisoner also produced the B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds themselves, which were openly viewed in Court by all, by which it did appear that the said <hi>Pedwardin Rumsey</hi> the Grocer, did seal the first seal, <hi>Ed<g ref="char:EOLhyphen"/>ward Rumsey</hi> the prisoner the second Seal, and Mr. <hi>Lionel Gelson</hi> the third Seal: but true it was the prisoner was named first in some of the Bands, which he acknowledged he caused to be done least the principal should acknowledge a Judgement against him un<g ref="char:EOLhyphen"/>known to him.</p>
+               <p n="5">5. The prisoner also produced master <hi>James Wiche</hi> his own an<g ref="char:EOLhyphen"/>swer in <hi>Chancery,</hi> and a witness to make oath that the same was a true Copy compared with the Original, wherein he the said Mr. <hi>Wiche</hi> himself confest, that the debt was contracted by the said <hi>Ped Rumsey</hi> the Grocer, for a parcel of Currants which he sold to him, but would not deliver the same till Mr. <hi>Rumsey</hi> the prisoner, and the said master <hi>Gelson</hi> had enterd into bond for the security of the price of the said <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rrants; which Answer the Court would not admit to be read at that time, because the Bill was not then in Court.</p>
+               <p n="6">
+                  <pb n="16" facs="tcp:118339:9"/>6. The prisoner also proffered to swear it was the debt of the said <hi>Ped. Rumsey</hi> the Grocer, and that he had none of the said Currants, nor of the moneys that was made of them, and that the said <hi>Pedwardine</hi> confest a Judgement of 15. hundred pounds to him and the said Mr. <hi>Gelson</hi> in order to save them harmlesse from their ingagements, before ever they entred into the said Bonds, which he proffered to produce, yet notwithstanding all this proof, the Petitioner was put of till Tuesday the 14 of <hi>March.</hi>
+               </p>
+               <p n="2">2. Upon Tuesday the 14 of <hi>March</hi> the party appeared again, and the prisoner produced both Bill and Witnesse as aforesaid to prove the same, but the Court would not hear neither Bill nor answer, they being then of this opinion that as long as the par<g ref="char:EOLhyphen"/>ty was living who had sworne any answer or affidavit, hee must come to Court, and be there examined <hi>Viva Voce,</hi> to which was replied that the said Mr. <hi>Wiche</hi> had broke his leg, and was sick, and kept his bed and therefore was not able to come, of which Oath was proffered to be made, and therefore the prisoner being kept in pri<g ref="char:EOLhyphen"/>son onely upon that execution, and his estate being in danger to be sold in <hi>April,</hi> the said Mr. <hi>Wiche</hi> having long since made his brags, he would then buy it, the prisoner having a wife and eleven chil<g ref="char:EOLhyphen"/>dren to provide for, humbly desired the Court, being they were not satisfied withall that proof formerly mentioned, that 2 or 3 of the Judges, would make a step to Mr. <hi>Wiche</hi> his lodging, he lying within lesse then a flight shot of that place, there to examine him<g ref="char:EOLhyphen"/>self, which the Court refused saying they could not send a Court out of a Court, and also said they were resolved to hear no more of this businesse till Mr. <hi>Wiche</hi> was able to come abroad, and give them further satisfaction to which the prisoner replied that perhaps that might never be, and that he might die, and therefore pressed ear<g ref="char:EOLhyphen"/>nestly for an Order to bring him the said Mr. <hi>Wiche</hi> before them, either in a Coach or Sedan to be examined that afternoon, which the Court refused to grant, but appointed to hear it further in case the prisoner could bring Mr. <hi>Wiche</hi> before them, upon Thursday the 16 of <hi>March.</hi>
+               </p>
+               <pb n="17" facs="tcp:118339:9"/>
+               <p>at which time all parties appeared again, the prisoner having four or five Witnesses and three Counsell that attended all that day, but could not be heard that day, by reason whereof he was for<g ref="char:EOLhyphen"/>ced to come again upon Friday the seventeenth of <hi>March;</hi> at which time all parties appearing, the cause was again debated, the prisoner having then several witnesses which be desired might be examined, the Court refused to swear them laying, they would hear M. <hi>Wiche</hi> before they would proceed any further: To which the prisoner and his counsel replyed, that if they would please to examine such witnesses as were then in Court, and did not re<g ref="char:EOLhyphen"/>ceive ful satisfaction by their testimony, he would then fetch the said Mr. <hi>Wiche,</hi> if possible, the prisoners counsel further ur<g ref="char:EOLhyphen"/>ging, that he was to prove the thing in issue at his peril, and that the Court had no reason to prescribe and limit the prisoner by what witnesses he should prove his cause by: But all this not<g ref="char:EOLhyphen"/>withstanding the Court refused to examine the prisoners witnes<g ref="char:EOLhyphen"/>ses, but put off the cause til Tuesday the one and twentieth of <hi>March</hi> wishing the prisoner in the mean time to summon the said M. <hi>Witche,</hi> further saying, that in case he then came not, they would proceed to hear the prisoners witnesses, as by their Or<g ref="char:EOLhyphen"/>der may appear.</p>
+               <p n="5">5. Upon Tuesday the one and twentieth of <hi>March</hi> all parties appeared again, the prisoner with his six witnesses, and four counsel, who prest the Court sufficiently to have a ful hearing, acc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rding to the Order of the Court, but the Court refused to examine any, in regard M <hi>Wiche</hi> was not in Court, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o their old l<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that they would examine no witness in the case til M <hi>Wiche</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as able to come to Court in person, to give them further satisfaction, M. <hi>Ieffreys</hi> counsel affirming, that they would bring him to court upon Thursday seven night, which time the C<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> was resolved to give them, unless the prisoner would bring him sooner; whereupon the prisoner again acquainted the Court with the condition of the said M, <hi>Wiche,</hi> and how that he was not able to come, and proff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red to make oath that he had served him with the Summons of the Court, and done what he could to get him there, and therefore desired again that in case they must have his testimony, that two or three of the Iudges would come and examine him, which they again refused to do;
+<pb n="18" facs="tcp:118339:10"/> then he earnestly desired that Mr. <hi>Latham</hi> the City-examiner, or one of the Masters of Chancery, might be permitted to examine him, which was likewise refused, then he desired an Order to bring him as he was, which was denied; whereupon the prisoner desired Mr. <hi>Norbury,</hi> being of his counsel, and two or three o<g ref="char:EOLhyphen"/>thers, to go to Mr. <hi>Wiche,</hi> to see whether it were possible by any means to get him to Court, where they found him very ill, lying upon his couch with a broken leg, and said he could not come neither in a coach, sedan, nor a chair, were it to gain five hundred pounds, further asking what the Court had to say to him, to which Mr. <hi>Norbury</hi> replied, that it was the resolution of the Court to hear what he could say, whether the debt upon which <hi>Edward Rumsey</hi> Esq lay in prison in the Fleet at his suit, was the proper debt of the said <hi>Edward</hi> or of his Brother; to which he replied, he had formerly answerd that point by his an<g ref="char:EOLhyphen"/>swer in Chancery, to which answer he said he must refer himself were he now in Court, giving this for a reason, that when he swore that answer, the matter was more fresh in his memory then now it could be, all which he said after a good part of the same was openly read unto him, whereupon Mr. <hi>Norbury</hi> and other wit<g ref="char:EOLhyphen"/>nesses came again to the Court at <hi>Salters hall</hi> and acquainted them with all the passages, proffered to make oath 2, 3, or 4 witnesses of the truth thereof, he thereupon desired them to pro<g ref="char:EOLhyphen"/>ceed to hear and determin the said cause, and to read the said an<g ref="char:EOLhyphen"/>swer, and to examin the prisoners witnesses, who had often at<g ref="char:EOLhyphen"/>tended them and sustained great charge, but the Court refused so to do, but put off the cause till Wednesday 23. of <hi>March,</hi> which time they said they would proceed to determine the same.</p>
+               <p n="6">6, Vpon Wednesday all parties appeared again, at which time Mr. <hi>Starkie,</hi> being of Councell for the p isoner, faithfully, inge<g ref="char:EOLhyphen"/>nuously, and modestly, opened the prisoners case, by which he endeavoured to satis<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e the Court which was very hondsomly seconded by honest Mr. <hi>Collins,</hi> but finding they were not or r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r would not seem to be satisfied of the truth of the point, which all the by-st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs were; he proferd them further testimo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of wit<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sses which Mr, <hi>Ieffreys</hi> Counsell and som of his frie<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s upon the Bench did not a little oppose to be sworn but at leng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h with
+<pb n="29" facs="tcp:118339:10"/> some difficulty there was five witnesses more publiclky sworn, viz. Mr. <hi>Ioseph Hawkins,</hi> who swore point-blanck that Mr. <hi>Rumsey</hi> the Grocer had the currence in the year 48. from M. <hi>Iames Wiche,</hi> to the value of about 600 l. and that the same was brought into his warehouse in <hi>Belyard,</hi> and that he being then his <hi>Cash-keeper,</hi> did sel and dispose of the said <hi>Currence,</hi> and out of the price thereof bought <hi>Tobacco</hi> for the use of the said <hi>Rumsey</hi> the <hi>Gro<g ref="char:EOLhyphen"/>cer:</hi> And further said, that M. <hi>Rumsey</hi> the <hi>Prisoner</hi> was bound for the said <hi>Currence,</hi> and that the said M. <hi>Wiche</hi> came to him to demand the said moneys, as the debt of the said <hi>Grocer.</hi> Next to him M. <hi>Richard Clayton</hi> was sworn and examined, who testified, that M. <hi>James Wiche</hi> did in the yeer 1648. acquaint him that M. <hi>Rumsey</hi> the <hi>Grocer</hi> had contracted with him for a parcell of <hi>Currence,</hi> amounting to the value of 6. or 700 l. and that he pro<g ref="char:EOLhyphen"/>posed unto him M. <hi>Rumsey</hi> the <hi>Prisoner,</hi> and M. <hi>Lionel G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lson,</hi> as <hi>Sureties</hi> for the said <hi>Currence,</hi> and enquired of him the said <hi>Clayton</hi> of the estates and abilities of the said <hi>Rumsey</hi> the <hi>priso<g ref="char:EOLhyphen"/>ner,</hi> and the said <hi>Gelson,</hi> who made answer, that he conceived them to be very able and sufficient <hi>security,</hi> &amp; shortly after heard they were accepted of, and that the said M. <hi>Rumsey</hi> the <hi>Grocer</hi> had the <hi>Currence,</hi> and disposed thereof. Next to him was sworn and examined one M. <hi>Thomas Prichard,</hi> who had formerly been <hi>servant</hi> to the <hi>prisoner,</hi> who swore, that he heretofore, <hi>viz.</hi> in the yeer 48. having heard that Mr. <hi>Rumsey</hi> the <hi>Grocer</hi> did in<g ref="char:EOLhyphen"/>tend to get his brother <hi>Rumsey</hi> the <hi>prisoner</hi> to enter into bonds, and to engage for payment of so great a sum of moneys for the said <hi>Currence,</hi> he did what he could to disswade the <hi>prisoner</hi> from entring thereto.</p>
+               <p>But Mr. <hi>Rumsey</hi> the prisoner answered him, that he had but one brother, and that he could not finde in his heart to let him fail, for want of his brotherly love &amp; assistance, or words to that purpose; and shortly after confest to him he had entered into the said bonds to the said Mr. <hi>Wiche,</hi> and he verily believes the said Mr <hi>Rumsey</hi> the prisoner lies now in the Fleet upon some of these bonds; but notwithstanding this proof, and though the prisoner profered, that if any would prove that he had ever any other dealings with him the said <hi>Wiche,</hi> or ever entered into any bonds to the said <hi>Wiche</hi> upon any other account, he would be
+<pb n="20" facs="tcp:118339:11"/> concluded from further relief; yet one of the said Judges, which shal be nameless, though not blameless, being a pregnant Ora<g ref="char:EOLhyphen"/>tor, would fain have made the Court believe that, and many other things, started and broached by himself, who pleaded while hee was in Court more than any Councel, and maintained the cause with so much earnestness both against the prisoner, his Counsel, and his Witnesses, and especially against Mr. <hi>Starkie,</hi> who for an<g ref="char:EOLhyphen"/>swering him the truth of the Clients cause, was by him cruelly check't and commanded to hold his peace, and told he was a rude person, and an uncivil fellow, only for contradicting an untruth of his, besides divers unhandsome (if not most partial) passages both towards the prisoner, and his Witnesses, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> unbeseeming a man in Authority, much less a Iudg, as he then was; but this was nothing with him, for he, when he observed a cause where<g ref="char:EOLhyphen"/>in he was concerned, or when one of his two brother<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had a good fee, (the one practising as a soliciter, and the other as a councell, though never called to the barr) did not go as he would have it, would usually rise out of his place and whisper into the ears of all or most of the Iudges in Court; and last of all would go and sit by the Clark as he did in in the case of Mr. <hi>Ewers</hi> afor<g ref="char:EOLhyphen"/>mentioned, and others, till he had made it go as he pleased; and when he had carried the cause he came to court for, away he was gon and would scarce stay to sign any orders, and would not ap<g ref="char:EOLhyphen"/>pear again scarce once in a week, till he had the like occasion, and then he would bring his party with him, and is not this good salt <hi>Quere,</hi> whose son he is, and then you will see he was so flesht in his infancie and found such sweet blood in the prisoners veins that he could never since leave sucking the same, more rhan a masty dog or a wolf that had once found the way to kill sheep this is he that said he did not doubt to make his place worth 1000l. to him before he had done with it if he be not much be<g ref="char:EOLhyphen"/>lyed by some of his nearest relations, &amp; that said another time pub<g ref="char:EOLhyphen"/>lickly in <hi>Salters hall,</hi> he had <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow found the knack of the Judges meaning, a Writ of <hi>Habeas Corpus,</hi> which Judge <hi>Atkins</hi> had legally granted to Sir <hi>Thomas Dacre</hi> Knight, prisoner in the Fleet, for his going abroad, which Wr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t he this learned Iudg woulds needs declare to be in <hi>Fraudem legis,</hi> aganist &amp; contrary to Law, and that the Knights going abroad, upon the same was
+<pb n="21" facs="tcp:118339:11"/> an obsolute escape, yet his moderation and great discretion was such that he declared his conscience and Iudgment upon the case, so that the warden of the Fleet should not pay for the escape, nor yet the prisoner nor his bail, but that in all reason and equi<g ref="char:EOLhyphen"/>ty the Iudg who granted the said writ should pay for it, <hi>Jn good time good Sir;</hi> You speak like your self, you can better reach your Granname to eat pap, then teach so worthy and reverent a Iudg to know what is Law; but we were like to have a fine time when such men as you should prescribe law to such whose boo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s you a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e not worthy to carry, &amp; controul their doings; but w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cry you <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<g ref="char:EOLhyphen"/>cy in one thing, we must confe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you were wiser, than we thought for, for it seems you have a spirit of Proph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sie, for you then said, you knew you should hear of it, and so le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st you should be a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e prophet, as many of your judgments &amp; principles are, we tel you first of it, and we believe you did little think to hear of it so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oon, and in such a manner, for it is not forgotten that such kn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s did help to breed you up. We pray Sir tell us, were these words seasoned with salt, and were you so free from knack<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, being a jaylors son, as that you dare throw the first stone? we <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o not; or else you would by this time have wished you had swallowed rather than spake them, if you be not cloathed with too much pride and impudence, as indeed you are, having spent so much time to know others, that yon hardly know your self, and you may learn the ould Rule <hi>Nosce te ipsum,</hi> one passage more we must not forget to insert in this case, which is, that one of the said <hi>Ieffreys</hi> Councell against the prisoner, did upon the third day of canvasing the business, confess in Court, that he was asha<g ref="char:EOLhyphen"/>med of his clients cause, and that he had no more to say therein, yet he and another young Whipster (we dare not yet call B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is<g ref="char:EOLhyphen"/>ter, though he took as great fees as any) being a Chip of the old block, had not so much honesty as to refuse mony ro maintain an ill cause, to the great delay of Justice▪ the dishonor of the Court, and pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>judice of the prisoner, whose cause was neerer <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n end the second day of hearing, than the last. Now we <hi>Prisoners</hi> do conceive this to be but unsavoury sa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and that many of us will have but an ill savor if we be kept long in prison, and have no better salt cast on us, delays being grievous to any, much more to men in our condition, who could not believe that such men
+<pb n="22" facs="tcp:118339:12"/> as these could do such things, for we heard and we did believe we had got some of <hi>Jethroes</hi> Iudges, men that feared God, and hated coveteousness; but never prisoners so deceived <hi>(sic Notus ulisses?)</hi> But yet we hear some object, that it is impossible that these things should be, or that they should prove so bad being men chosen mearly fer their honesty and inclination to Iustice; for the world knows that it was neither their parts, birth or pa<g ref="char:EOLhyphen"/>centage, nor high education, nor qualification, nor transcendant knowledg in the Law, that caused them to be so looked upon, and to be taken out of their shops to sit upon the throne of Ius<g ref="char:EOLhyphen"/>tice, but we must answer we know it by woful experience, too pos<g ref="char:EOLhyphen"/>sible, and that they were rather worse than any thing better then is here declared, we mean the constant sitters; who we fear had learnt to drive a trade there, and were thought to gain more there, than in there shops, and were suspected by some of the most ingenious of their own associates, who avoided them, and were ashamed of them because of their irregular courses, who we conceive now have as much cause to bless God that they are prevented, as <hi>David</hi> had when he met with <hi>Abigal, Naboths</hi> Wife, for preventing so much oppression and injustice, and the cries of the oppressed, which would shortly have pierced the hea<g ref="char:EOLhyphen"/>vens, and would have brought shame, if not distruction, open<g ref="char:EOLhyphen"/>ly against them, <hi>Qui non vetat cum potest jubet.</hi>
+               </p>
+               <p>And if they are not ashamed of these things, others were, &amp; so declared themselves in open Court; for the corruptest Courts that ever were never learnt more jugling, nor more shifts and de<g ref="char:EOLhyphen"/>lays than they had learnt for their time, the remedy that divers persons found amongst them being worse than the disease, some having spent as much in seeing Lawyers from time to time, and fetching witnesses out of the Countrey, and maintaining them in town, as would have maintained them a twelve moneth in prison, and yet never the better; whereas these men had they been rightly minded, might have done much good, and relieved many a distressed Family, having power to hear and determine those suits and grievances between <hi>Prisoner</hi> and <hi>Creditor,</hi> in a short and summary way, which have held hundreds of prisoners six or seven yeers in prison, and in Chancery suits, and may hold them as long again, unless wisely prevented; but it seems these
+<pb n="23" facs="tcp:118339:12"/> things were hid from their eyes, the way of truth and justice they having not known, or at least not regarded, which was the grea<g ref="char:EOLhyphen"/>ter evil: <hi>For they that know how to do the will of God, and do it not shall be beaten with many stripes,</hi> and we have great cause to fear that all their gross partiality did not proceed out of ignorance, but rather out of avarice, or mal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cious wilfulnesse, for they were sufficiently told of the sad and heavy pressures, and the wrongs we suffered from the <hi>Goalers</hi> and <hi>Creditors,</hi> both by our Counsel and by divers of our selves; but yet like the deaf Adder, they stopped their ears, let the Charmer charm never so wisely, yea they turned a deaf ear to all our just complaints, and regarded not our cries, but were altogether for the rich <hi>Creditors,</hi> doing for them what their hearts desired, yea more than in reason, ju<g ref="char:EOLhyphen"/>stice, or equi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y could be desired, that which was feeble, being no<g ref="char:EOLhyphen"/>thing worth with them, whose power and strength was the Law of unrighteousnesse, if we may iudge of the tree by the fruit it bears, for in all this time they did never regulate the extor<g ref="char:EOLhyphen"/>tions, nor abuses of any prison, but left the prisoners to their merciless cruelties; are not these godly Iudges? We should not have been so large in these things, but that these men would fain colour all these things under a shew of sanctity, whereas <hi>Simulata sanctitas est duplex iniquitas,</hi> we are sure such practises (if not such persons) cause the way of <hi>truth</hi> to be ill spoken of, and therefore according to the Apostles rule, we desire to re<g ref="char:EOLhyphen"/>prove those openly, who have sinned so openly, and with-held the <hi>truth in unrighteousness,</hi> and that so openly before <hi>Israel,</hi> and before the <hi>Sun</hi> (for we did not hazard our lives, fortunes, and families for such a Reformation) which we hereby declare, that <hi>Israel</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d all the <hi>Judges</hi> thereof, may hear and fear, and do no more such wickedness, which if they shall, they may instead of a reproof, deserve little less then to have their ski<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d over their ears, and to have their seats lined therewith, as men of such corrupt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>indes were formerly used in such times, when the light of the Gospel sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned not half so cle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r as now it doth, and when the <hi>Laws</hi> of our <hi>Land</hi> and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <hi>Liberty</hi> of the <hi>Free born people</hi> of this <hi>Nation▪</hi> had not cost half so <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>bl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>od</hi> and <hi>treasure</hi> as now it hath: L<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>n therefore <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> c<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, (if it were no more but what be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el some great ones before you) <hi>to be wise, O yee Kings,
+<pb n="24" facs="tcp:118339:13"/> and to be learned, yee Iudges of the Earth;</hi> for we <hi>English men</hi> cannot wel <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>isgest these things at the hands of our equals or in<g ref="char:EOLhyphen"/>ferio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, for i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is a matter of no smal moment nor danger, when <hi>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ju<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> persons</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re in <hi>power,</hi> and that in a time wherein so much <hi>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>righteousness</hi> is promised and expected, and as we hope and doubt not, <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>nd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by our Protector and Governors, who highly <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m to affect <hi>honor</hi> and <hi>justice,</hi> else such care would not be taken, as of la<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hath been, to finde out men so fit for distribution of <hi>justice,</hi> and the work of the <hi>Magistracy</hi> and <hi>Mi<g ref="char:EOLhyphen"/>nistry;</hi> yet you sit under their noses here at <hi>Salters-Hall,</hi> and b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ush not to do such thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gs as these which have been spoken, yea more, when you please you can reverse, recall and nullifie <hi>Decrees of Chancery</hi> under the <hi>Great Seal of England,</hi> as you did in the case of Mr. <hi>Reamon,</hi> and others, and yet in other cases far more equitable, you shal acknowledge <hi>Decrees of Chancery</hi> to be above your power, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d have refused to relieve Mr. <hi>Walter Ward,</hi> Mr. <hi>Plucknet,</hi> Mr. <hi>Worsley,</hi> and many others, which now to name were too tedious: yea, you have refused eo relieve some prisoners upon bare contempt, though a long time unjustly im<g ref="char:EOLhyphen"/>prisoned, witness Mr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Dorothy Hinton,</hi> who for not giving her testimony in a <hi>Cause,</hi> though she proffered before you to go presently to be examined, all the remedy you granted her, was to send her back to prison, wishing you had power to make her pay Costs.</p>
+               <p>Now you were out in one of both, either it was within your power or it was not; if it was not, why did you at all in any case usurp power? but if it was, why did not you more impartially ad<g ref="char:EOLhyphen"/>minister the same to all that sought it? come, your fountain is corrupt, and is too much obstructed therewith, when you please, <hi>(Huic habeo non tibi;)</hi> is this good salt? Fough, we smell it too far, it hath quite lost his savor, and <hi>is good for nothing, but to be thrown out; and trod underfoot,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or you see i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is not a fr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilty in the Case of one two and 3 for that we could have born with, but you are so used to that trading that you ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a trade of it, and we fear you are so accustomed to do evil that you know not how to do wel, having done the utmost that in you say to ruine us all, else why did you remand such back again to prison, who were kept in for debts formerly satisfied, and by that means disable them to pay the debts they justly owed; but to the end, you might make them Bankrupts so have their whole estates within their power.</p>
+               <pb n="25" facs="tcp:118339:13"/>
+               <p>Having now ended with the Judges, who for these reasons we hope will be no longer continued, we shall offer these insuing rea<g ref="char:EOLhyphen"/>sons and exceptions against the Act it self, by which the illegality thereof may sufficiently appear, hoping that our Legislators will a<g ref="char:EOLhyphen"/>void those rocks and prevent those evills in the next.</p>
+            </div>
+            <div type="part">
+               <head>Acts of Parliament against Common right or reason, or re<g ref="char:EOLhyphen"/>pugnant or impossible to be performed, the Common Law shall controle and judge such Acts to be void.</head>
+               <q>The Act intituled, <hi>An Act for Relief of C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>editors and poor prisoners</hi> is an Act against common right and reason Repugnant, and in some thing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> impossible to be perform<g ref="char:EOLhyphen"/>ed. <bibl>Dr. Bonhams Case, Cocks <hi>8</hi> part, fol. <hi>118.</hi>
+                  </bibl>
+               </q>
+               <p n="1">1. It is against common right and reason that Artifi<g ref="char:EOLhyphen"/>cers, and tradesmen should be Judges of the Law, an Act of Parliament cannot make an Artist, it is study time and industry that gives knowledge in Laws and in Arts.</p>
+               <p n="2">2. For the same persons to be both Judges, and Jurors in the same case and matter.</p>
+               <p n="3">3. For Judges to share of the prize of the thing they are to judge, and determine.</p>
+               <p n="4">4. It is against common right &amp; reason for Judges not to be sworn to do equal justice.</p>
+               <p n="5">5. For Judges to have unlimited power and Arbitrary.</p>
+               <p n="6">6. That there should be a cesser of the ordinary Courts of Justice in the intervals of Parliament in causes concern<g ref="char:EOLhyphen"/>ing partees and parties in case of escapes and civil causes.</p>
+               <p n="7">7. That such power should be in three persons to do what they please unquestionable, but in Parliament.</p>
+               <p n="8">8 Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the power of the reverend Judges of the Laws should be excluded to give relief in cases and matters of escapes and debts within that Act.</p>
+               <p n="9">9. That judgements at the Law should otherwise be re<g ref="char:EOLhyphen"/>versed or nulled but according to the Laws of the land.</p>
+               <p n="10">10. That trialls of fact should be a summary way, and not by Jurors which is the birthright of the people of the Nation.</p>
+               <p n="11">
+                  <pb n="26" facs="tcp:118339:14"/>11. It is against common right and reason for a man to be made a Bankrupt without any Act, or default of his own onely definitively by a positive Act of Relation.</p>
+               <p n="12">12. It is against common right and reason that the pu<g ref="char:EOLhyphen"/>nishment or fine should be disproportionable to the offence or breach of trust or concealment of any estate in trust or Trustee to be more penal then fellony or treason.</p>
+               <div type="section">
+                  <head>It is an Act Repugnant.</head>
+                  <p>Any three of the said persons nominated are made Judges to here and determine matters of escapes, matters of debt, and the causes of the persons in the said Act speci<g ref="char:EOLhyphen"/>fied &amp; impowred to fine for breach of trust<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, (<hi>Stat. Mag<g ref="char:EOLhyphen"/>nu Charta, ch.</hi> 24.) and concealment of trusted estates, im<g ref="char:EOLhyphen"/>prisoned, set at liberty, compound debts, remand to prison adjudge men to the Pillory, house of Correction, work house, to grant Lease or sell the estates of the per<g ref="char:EOLhyphen"/>sons in the Act mentioned, and yet no Court of Record to fine or imprison, they have no constituted seal, no power or authority to grant proces, writ or Warrants, and yet make summons by force of Warrants under their own hands and seals, they are Judges by the words of the Act; but no Court, nor do they admit of any legal form of proceedings, or of any pleading or Abatement to the Demand, nor Plea to the Jurisdiction, no exception, disa<g ref="char:EOLhyphen"/>blement of the person complaining: no Plea to the heir gainst the Demand of the debt of his Ancestor, nor Plea for the Executors; no wager of law in discharge of the debt demanded by the same upon account, and without specially, their orders and proceedings are no records nor pleadable, nor evidence in any Court of Law or Equity.</p>
+                  <p n="2">2. They Act as Judges and Jurors, and yet no Writ of Error, nor Writ of <hi>Accedas ad Curiam,</hi> nor no Writ of false judgement lies to question their judgment, to challenge them as Jurors, nor attaint for false verdict.</p>
+                  <p n="3">
+                     <pb n="27" facs="tcp:118339:14"/>3. They are by the words of the Act to act to all in<g ref="char:EOLhyphen"/>tents and purposes, as any Comissioners of Bankrupts, by vertue of any Comission upon any the Stat. of Bankrupts, and yet they are to act without any Commission to act upon, out of the high Court of Chancery, under the great Seal, which is to warrant the Commissioners to act upon the <hi>Stat.</hi> 13. <hi>Eli.</hi> 15. and 21. <hi>Jac.</hi> without which they can<g ref="char:EOLhyphen"/>not act nor award summons. And Commission proceed<g ref="char:EOLhyphen"/>ings are traversable at Law, and the Commission suspen<g ref="char:EOLhyphen"/>dable in Chancery.</p>
+                  <p n="4">4. It is repugnant in this, that one part of the said Act holds forth a limited power, and by another part of the said Act the said Judges are not to be questioned, molest<g ref="char:EOLhyphen"/>ed, or respontible for all their actings in pursuance of the said Act, but to the Parliament onely,</p>
+                  <p n="5">5. It is repugnant to the power of the Supream Magi<g ref="char:EOLhyphen"/>strate, who ought to have no superior.</p>
+                  <p n="6">6. It is Repugnant, in that the said Judges may sell the estates of dead men prisoners, as fully as the said prison<g ref="char:EOLhyphen"/>er himself might have done: whereas death abates all suits, and determines all proper intrest, and then the rule of Law doth attach.</p>
+                  <p>
+                     <hi>Posito,</hi> A prisoner is indebted in Fee, dies without heir, the Lord shall have the land by Escheat, the Seigniory is more ancient then the debt contracted, the Law preserves the Lords title.</p>
+                  <p>
+                     <hi>Posito,</hi> the prisoner was Tennant in tail, and died with<g ref="char:EOLhyphen"/>out issue, the Donor shall have the land by reverter, and the Judges cannot sell; for the <hi>Stat. W.</hi> 2. <hi>de donis,</hi> pre<g ref="char:EOLhyphen"/>serve the title of the Donor, so in case of a remainder in tail, <hi>W. W.</hi> 2. <hi>de donis.</hi>
+                  </p>
+                  <p n="7">7. It is repugnant in that the Act in the scope and bo<g ref="char:EOLhyphen"/>dy is intended for relief of Creditors against such as are prisoners, and do not pay their debts by a certain time re<g ref="char:EOLhyphen"/>mited,
+<pb n="28" facs="tcp:118339:15"/> and so become Bankrupts, and by a provision in the said Act the estates of strangers, that are neither priso<g ref="char:EOLhyphen"/>ners nor Bankrupts, may be sold by the said Judges, if in<g ref="char:EOLhyphen"/>debted to such persons.</p>
+                  <p n="8">8. It is repugnant that perjury should be punished without indictment or information, which this Act gives power to the Judges to do, thereby taking from the per<g ref="char:EOLhyphen"/>son his legal defence,</p>
+               </div>
+               <div type="section">
+                  <head>This Act is impossible to be performed.</head>
+                  <p>In the very scope and body of the Act, for that it makes the prisoner a Bankrupt from the time of his first Com<g ref="char:EOLhyphen"/>mitment, and contract of the debt, if he pay not his debts before <hi>April,</hi> 1654, and yet makes all sales by the prison<g ref="char:EOLhyphen"/>er of his lands after <hi>October</hi> before to be void, and the <hi>Stat.</hi> takes place from the 5th of <hi>October</hi> 1653.</p>
+                  <p>Now let all ingenious men tell us whether it was not time, for prisoners whose all lay at stake, to complain a<g ref="char:EOLhyphen"/>gainst such an Act, and against all such Judges, and to seek relief, &amp; whether it be the part of any honest men to op<g ref="char:EOLhyphen"/>pose or hinder their just relief, but rather as Christians &amp; free-born English men to further the same; for not onely we that are now prisoners and our posterities, had been destroied, but after us most of the Nobility &amp; Gentry of <hi>England,</hi> besides the laws and liberties of us who are free-born English men, were in great danger to be lost, by suffering such invasion and intrusion contrary to our great Charter the Petition of Right, and many wholsom Laws of this Nation, which by this one was ready to be swallowed. And having done with this, we shall in the next place after a summary of our just desires, which be<g ref="char:EOLhyphen"/>ing hearkned to, and duly considered of, may with Gods blessing, prove a means to restore us unto our former Liberties, and prevent the ruine of us &amp; ours, and of ma<g ref="char:EOLhyphen"/>ny thousands that must have followed us, as being in the
+<pb n="29" facs="tcp:118339:15"/> same predicament, though not yet in prison, and yet pro<g ref="char:EOLhyphen"/>pose a way by which Creditors may soon have their just debts, as by what follows may appear.</p>
+               </div>
+            </div>
+            <div type="summary">
+               <head>A Summary of the desires of all honest prisoners that are de<g ref="char:EOLhyphen"/>sirous to pay their just debts, as the same was presented by Captain <hi>Roger Prichard</hi> to his Highnesse Councel, on the prisoners behalf, and also to Judge <hi>Atkins,</hi> and Baron <hi>Thorp,</hi> &amp; Mr. Attor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <hi>Prideaux,</hi> to whom it was referred by the Councel, who desire that as many of them as shall be thought fit, may be inserted in the new Ordinance.</head>
+               <p n="1">1. That the late Act for the relief of Creditors and poor prisoners, be absolutely nulled and repealed, or set aside for the incompetence of the Judges, and sundry inconveniences thereof, and that care be taken to elect fitter men in the new, and that no inroad be made therein, contrary to the ancient and known laws of the land, the benefit whereof the prisoners claims as his birthright, as well as others.</p>
+               <p n="2">2. That the badge and brand of Bankrupt be omitted in the new Ordinance, unlesse it be upon such as were ad<g ref="char:EOLhyphen"/>judged Bankrupts, by former Statutes, and that there be a course to make all men pay their debts as well as priso<g ref="char:EOLhyphen"/>ners.</p>
+               <p n="3">3. That 6 months time be also thetein allowed priso<g ref="char:EOLunhyphen"/>ners at least, to seek out their own chapmen with liberty in the mean time, especially to all such as shall find suffi<g ref="char:EOLhyphen"/>cient security, to the Gaoler or some Iudges of record to pay their debts, for which they stand charged in executi<g ref="char:EOLhyphen"/>on, or to return to prison at six moneths end.</p>
+               <p n="4">4. That prisoners for contempt have the same liberty, giving security to stand to the next hearing, if upon de<g ref="char:EOLhyphen"/>crees, but if for not answering, or refusing to be exami<g ref="char:EOLhyphen"/>ned then upon security, to answer or to be examined within that time, or to return at 6 moneths end to prison,
+<pb n="30" facs="tcp:118339:16"/> there to remain till they shall answer or be examined or perform the decree, this is desired because many are sur<g ref="char:EOLhyphen"/>prized &amp; brought into prison unjustly upon this account.</p>
+               <p n="5">5. That poor prisoners be forthwith discharged upon their Oaths, especially such as shall find security to re<g ref="char:EOLhyphen"/>turn again at 6 months end, during which time the Cre<g ref="char:EOLhyphen"/>ditor may inquire of their estates, and secure the same, if any be found and have the same among them, and then to be quite discharged, unlesse they forsware themselves till they shall get estates.</p>
+               <p n="6">6. That Out-lawries be not pleaded against prisoners for debt, and that they may be discharged of course put<g ref="char:EOLhyphen"/>ting in Bail to answer the suit.</p>
+               <p n="7">7. That where prisoners whole estate is to be sold, a 4 or 5 part be preserved for wife and children, it being Haberdashers-Halls mercy, and that none be sold under 20 years purchase.</p>
+               <p n="8">8. That creditors have not their full executions from prisoners but their principal debt rightly stated with mo<g ref="char:EOLhyphen"/>derate intrest, <hi>viz.</hi> 2 <hi>l. per cent</hi> at the most from 42 til 48 there being but 3 <hi>per cent</hi> adjudged by the Lords Com<g ref="char:EOLhyphen"/>missioners in <hi>Mal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi> and <hi>Woolridg</hi> case, and others who were at liberty, to make the best of their own; which prisoners nor such whose estates was under sequestration could not do, and therefore would be considered.</p>
+               <p n="9">9. That prisoners Mortgages and incumbrances be re<g ref="char:EOLhyphen"/>deemed at moderate intrest as aforesaid, &amp; that mean pro<g ref="char:EOLhyphen"/>fits perquists wastes and spoils be discounted.</p>
+               <p n="10">10. That Prisoners may have the like speedy remeddy against th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r debttors as their creditors have against them, that so the prisoner may pay his Creditor, and may also have some speedy way for recovery of their estates, from such who withhold the same from them, in regard they are not able to maintain long and tedious suits.</p>
+               <p n="11">
+                  <pb n="31" facs="tcp:118339:16"/>11. That prisoners who are as Sureties for others, may have some speedy and effectual course against their principals, as their Credi<g ref="char:EOLhyphen"/>tors have against them, and also against such as withhold their prin<g ref="char:EOLhyphen"/>cipals estate, by fraud, trust, or otherwise.</p>
+               <p n="12">12. That Prisoners suffering unjustly and causelesly, either for debts formerly satisfied or Judgments surreptitiously obteined, or where lands are extended for the same debt, or by any other trick or querks of their adversaries or others their Attornies, Solicitors, and Agents, may be discharged with ample damages, either from the Adversary or Attorney, as well as for not declaring.</p>
+               <p n="13">13. That the clause of Appeals onely to the Parliament be left out, and that the Judges may be sworn, and their Sallary appointed some other way.</p>
+               <p n="14">14. That all abuses and extortive fees of prisons be rect<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied and that Judges for the future, may have power to proceed against those that stay longer than six moneth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, as they have now against the present prisoners.</p>
+               <p n="15">15. That some distinction be had between prisoners, <hi>viz.</hi> between rich and poor principal or surety childless, or having many children impoverisht by the hand of God or their own luxury or pro ligali<g ref="char:EOLhyphen"/>ty, as also of such who have laid out or lost their estates for the Par<g ref="char:EOLhyphen"/>liament, who ought to be one way or other requi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, and not suf<g ref="char:EOLhyphen"/>fered to perish in prison.</p>
+               <p>Come then by these or the like works of mercy and justice, and return to the Lord, and seek him, who though he hath smitten us, will yet heal us, though he hath broken us will yet make us whole, if we break off our sins by repentance, and practise the contrary good. We talk high of a glorious Reformation, but where is it, till such things as these be done, till we judge the cause of the father<g ref="char:EOLhyphen"/>lesse and the widow, and relieve the oppressed Captives, we do but Pharisee-like, wash the outside of the cup, and leave the weightier things undone, <hi>viz</hi> mercy, justice, righteousnesse, which is more acceptable to heaven then sacrifice; for without these things all our sacrifice or fast or reformation will prove abhominable: Yea then which turn Righteousnesse into Wormwood, and leave of Righte<g ref="char:EOLhyphen"/>ousnesse in the earth, <hi>Amos</hi> 6.7. <hi>Ye that put away the evill day, and cause the seat of violence to come near, cease to do evil, and learn to do well;</hi> how long will ye strive with your m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ker, we beseech you by the mercies of God, who yet vouchsafeth you time, means, and op<g ref="char:EOLhyphen"/>portunity
+<pb n="32" facs="tcp:118339:17"/> to perform all your vows and promises: now at length to give off, and come in, and put on you bowels of mercy and com<g ref="char:EOLhyphen"/>passion, by putting on you the Lord Jesus Christ, and no further to make provision for the fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh, to fullfill the Lusts thereof; forsake your old and accustomed way and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xime, <hi>cives, cives, querenda pe<g ref="char:EOLhyphen"/>cunia prim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m, virtus post nummos;</hi> for what fruit have you of those things, whereof you are or justly may be ashamed; But the fruits of his spirit are love, joy, peace, long-suffering, gentleness, goodness, patience: learn therefore to do justly, to love mercy, and to walk humbly with God, <hi>Esay</hi> 58. to l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sen the bands of wickednesse, to take off the heavy burthens and let the oppressed go free, for with these things God is well pleased; these things shal cause the light to break forth as the morning, these things are approved of and ac<g ref="char:EOLhyphen"/>cepted of man, remember that the memory of the righteous is bles<g ref="char:EOLhyphen"/>sed; the earth shall sooner pass away, then the memory of the just shall perish, <hi>Vivit post funera virtus, gloria virtutis sola perennis erit,</hi> the name of being a just man, is better then a rich man, for it shal be had in everlasting remembrance, <hi>Ps.</hi> 112 6. when on the other side the unjust and wicked mans name shall with his body die and rot, <hi>Prov.</hi> 10.7. <hi>Ye more God shall destroy him for ever, he shall take him a<g ref="char:EOLhyphen"/>way, and pluck him out of his dwelling place, and root him out of the land of the living,</hi> Ps. 52.5 <hi>and he shall depart into Hell, to be tormented for e<g ref="char:EOLhyphen"/>ver, If all this will not deter thee go on at thy peril, as the holy Ghost saith, let him that is filthy be filthy stil, we are free from thy bloud, and can but bewail thy folly.</hi> Thus having sufficiently reproved the mercilesse Creditors, and the wicked and unjust Judges of our times all whose reaches are at riches, and think every thing honest if it be but gain<g ref="char:EOLhyphen"/>full, who like <hi>Caligula</hi> smell no difference between gold got by op<g ref="char:EOLhyphen"/>pression, and that justly come, and also proposed a way to remedy these evils: now to conclude our prayer shall be from such a pack of Judges, and such another Act, good Lord deliver us, and direct those who sit at the stern in this their day to find out, and to do those things that tend to their and our peace and safety, and the welfare of this sinful Nation, which so much shaketh by reason the foundation is out of course, and grant they may bring glory to God and honour to themselves, by perfecting the good work they be<g ref="char:EOLhyphen"/>gan, and so prove restorers of our Liberties, and repairers of our Breaches.</p>
+            </div>
+            <closer>SOLI DEO GLORIA.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
